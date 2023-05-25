@@ -2003,6 +2003,3 @@ autoload -Uz +X _call_program
 
 typeset -gUa _comp_assocs
 _comp_assocs=( '' )
-
-#omz revision: c08b925d282e35ea7bd9a8f4c29de2ece0debb49
-#omz fpath: /Users/fvcci/.local/share/fig/plugins/ohmyzsh/plugins/git /Users/fvcci/.local/share/fig/plugins/ohmyzsh/functions /Users/fvcci/.local/share/fig/plugins/ohmyzsh/completions /Users/fvcci/.oh-my-zsh/cache/completions /Users/fvcci/.oh-my-zsh/plugins/git /Users/fvcci/.oh-my-zsh/functions /Users/fvcci/.oh-my-zsh/completions /Users/fvcci/.oh-my-zsh/cache/completions /usr/local/share/zsh/site-functions /usr/share/zsh/site-functions /usr/share/zsh/5.8.1/functions
