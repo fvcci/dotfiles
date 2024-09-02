@@ -1,0 +1,132 @@
+{
+  "lastUpgradeScriptRun": "v9.0.0",
+  "appId": "1dfad3d3b2205cdfb4839fd70582a4e3de1e86ee",
+  "userMilestones": {
+    "unregisteredId": "32b58d06-6c9b-42b4-8bec-822bd37fc593",
+    "firstAppOpen": true,
+    "firstLoginRegister": true,
+    "firstRepoOpened": true,
+    "completedNewUserOnboarding": true,
+    "firstProfileCreated": true,
+    "completedFirstRepoModal": true
+  },
+  "sslWhitelist": [],
+  "lastReleaseNotesDisplayed": "9.0.1",
+  "aliases": {
+    "repo": {},
+    "tabs": {}
+  },
+  "windowSettings": {
+    "x": 8,
+    "y": 46,
+    "width": 1496,
+    "height": 928,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "registration": {
+    "email": "fongf2@mcmaster.ca",
+    "name": "Felix Fong",
+    "status": "activated",
+    "loginType": "github",
+    "date": "2022-10-06T18:18:19.693Z",
+    "EULA": {
+      "version": "8.3.1",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "5ad182c8-b008-4b00-a043-35e02d484fdb",
+  "licensedFeatures": [
+    "pro",
+    "timelines:pro",
+    "suite:pro",
+    "gitlens:pro",
+    "boards:pro",
+    "student",
+    "timelines:student",
+    "suite:student",
+    "gitlens:student",
+    "bundle:student",
+    "boards:student"
+  ],
+  "userFeatures": [
+    {
+      "name": "gitkraken"
+    },
+    {
+      "name": "cli"
+    },
+    {
+      "name": "activityStatus"
+    },
+    {
+      "name": "terminalInsideRepoTab"
+    },
+    {
+      "name": "gitBash"
+    },
+    {
+      "name": "changePriceEnabled"
+    },
+    {
+      "name": "gkApi"
+    },
+    {
+      "name": "velocityInClient_9_0_0"
+    }
+  ],
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/Users/fvcci/Documents/code/Github/path-finding-visualizer": {
+          "id": "openRepo-/Users/fvcci/Documents/code/Github/path-finding-visualizer",
+          "timestamps": [
+            1665080386167
+          ],
+          "total": 1
+        },
+        "openRepo-/Users/fvcci/Code/Github/portal": {
+          "id": "openRepo-/Users/fvcci/Code/Github/portal",
+          "timestamps": [
+            1673654784703
+          ],
+          "total": 1
+        }
+      }
+    }
+  },
+  "repoDeepLinkMap": {
+    "a1a0b04282927de8f8beed0e58ae2dac4044d48d": {
+      "paths": [
+        "/Users/fvcci/Documents/code/Github/path-finding-visualizer/"
+      ],
+      "pullUrls": {
+        "git@github.com:fvcci/path-finding-visualizer.git": {
+          "paths": [
+            "/Users/fvcci/Documents/code/Github/path-finding-visualizer/"
+          ],
+          "name": "path-finding-visualizer",
+          "hostName": "github.com",
+          "owner": "fvcci",
+          "hostingServiceType": "github"
+        }
+      }
+    },
+    "53538e43cbf65ce905778af5627e4e5fde480837": {
+      "paths": [
+        "/Users/fvcci/Code/Github/portal/"
+      ],
+      "pullUrls": {
+        "git@github.com:deltahacks/portal.git": {
+          "paths": [
+            "/Users/fvcci/Code/Github/portal/"
+          ],
+          "name": "portal",
+          "hostName": "github.com",
+          "owner": "deltahacks",
+          "hostingServiceType": "github"
+        }
+      }
+    }
+  }
+}

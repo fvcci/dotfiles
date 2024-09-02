@@ -1,0 +1,50 @@
+[2022-10-06T18:18:07.600Z] Detecting Git and Git LFS: started
+[2022-10-06T18:18:07.979Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","type":"RELEASE_NOTES"}]}: started.
+[2022-10-06T18:18:07.982Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"NEW"},{"id":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=3
+[2022-10-06T18:18:08.000Z] Detected Git: git version 2.30.1.2.30.1
+[2022-10-06T18:18:08.007Z] Did not detect Git LFS
+[2022-10-06T18:18:19.736Z] Verify SSH key for GitHub: started.
+[2022-10-06T18:18:19.740Z] Verify SSH key for GitHub: finished. gk-log://duration?t=4
+[2022-10-06T18:19:12.360Z] Add user profile: started.
+[2022-10-06T18:19:12.411Z] Set profile setting ["gpg","commitGpgSign"] to false: started.
+[2022-10-06T18:19:12.413Z] Set profile setting ["gpg","commitGpgSign"] to false: finished. gk-log://duration?t=2
+[2022-10-06T18:19:12.414Z] Set profile setting ["gpg","tagForceSignAnnotated"] to false: started.
+[2022-10-06T18:19:12.414Z] Set profile setting ["gpg","tagForceSignAnnotated"] to false: finished.
+[2022-10-06T18:19:12.425Z] Add user profile: finished. gk-log://duration?t=65
+[2022-10-06T18:19:12.512Z] Set profile setting ["organizationId"] to null: started.
+[2022-10-06T18:19:12.515Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=3
+[2022-10-06T18:19:46.210Z] Open repository /Users/fvcci/Documents/code/Github/path-finding-visualizer/: started.
+[2022-10-06T18:19:46.564Z] Open repository /Users/fvcci/Documents/code/Github/path-finding-visualizer/: finished. gk-log://duration?t=354
+[2022-10-06T18:19:46.581Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"path-finding-visualizer","repoPath":"/Users/fvcci/Documents/code/Github/path-finding-visualizer/"},{"id":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","type":"RELEASE_NOTES"}]}: started.
+[2022-10-06T18:19:46.583Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"9974f240-66d2-4433-a1ae-ac733f4644d3","tabs":[{"id":"9974f240-66d2-4433-a1ae-ac733f4644d3","type":"REPO","repoName":"path-finding-visualizer","repoPath":"/Users/fvcci/Documents/code/Github/path-finding-visualizer/"},{"id":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=2
+[2023-01-14T00:05:43.190Z] Verify SSH key for GitHub: started.
+[2023-01-14T00:05:43.193Z] Verify SSH key for GitHub: finished. gk-log://duration?t=3
+[2023-01-14T00:05:43.856Z] Detecting Git and Git LFS: started
+[2023-01-14T00:05:44.273Z] Detected Git: git version 2.37.1.2.37.1
+[2023-01-14T00:05:44.274Z] Did not detect Git LFS
+[2023-01-14T00:05:44.303Z] Open repository /Users/fvcci/Documents/code/Github/path-finding-visualizer/: started.
+[2023-01-14T00:05:44.359Z] Open repository /Users/fvcci/Documents/code/Github/path-finding-visualizer/: failed to resolve path '/Users/fvcci/Documents/code/Github/path-finding-visualizer': No such file or directory
+[2023-01-14T00:05:44.363Z] Open repository /Users/fvcci/Documents/code/Github/path-finding-visualizer/: finished with errors. gk-log://duration?t=60
+[2023-01-14T00:06:08.685Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","tabs":[{"id":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","type":"RELEASE_NOTES"}]}: started.
+[2023-01-14T00:06:08.702Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","tabs":[{"id":"81b1a3d2-eaa8-4bb7-a904-e04b1da8454b","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=17
+[2023-01-14T00:06:09.760Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"2c997c8e-708b-490b-bd33-d255fc25b7d4","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"NEW"}]}: started.
+[2023-01-14T00:06:09.763Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"2c997c8e-708b-490b-bd33-d255fc25b7d4","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"NEW"}]}: finished. gk-log://duration?t=3
+[2023-01-14T00:06:12.846Z] Send usage data to Axosoft: started.
+[2023-01-14T00:06:12.966Z] Send usage data to Axosoft: finished. gk-log://duration?t=120
+[2023-01-14T00:06:24.730Z] Open repository /Users/fvcci/Code/Github/portal/: started.
+[2023-01-14T00:06:25.087Z] Open repository /Users/fvcci/Code/Github/portal/: finished. gk-log://duration?t=357
+[2023-01-14T00:06:25.101Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"2c997c8e-708b-490b-bd33-d255fc25b7d4","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"REPO","repoName":"portal","repoPath":"/Users/fvcci/Code/Github/portal/"}]}: started.
+[2023-01-14T00:06:25.102Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"2c997c8e-708b-490b-bd33-d255fc25b7d4","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"REPO","repoName":"portal","repoPath":"/Users/fvcci/Code/Github/portal/"}]}: finished. gk-log://duration?t=1
+[2023-01-14T00:11:57.237Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"PROJECTS","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"REPO","repoName":"portal","repoPath":"/Users/fvcci/Code/Github/portal/"}]}: started.
+[2023-01-14T00:11:57.252Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"PROJECTS","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"REPO","repoName":"portal","repoPath":"/Users/fvcci/Code/Github/portal/"}]}: finished. gk-log://duration?t=15
+[2023-01-14T00:11:57.373Z] Set profile setting ["projects"] to {}: started.
+[2023-01-14T00:11:57.378Z] Set profile setting ["projects"] to {}: finished. gk-log://duration?t=4
+[2023-01-14T00:12:00.815Z] Set profile setting ["organizationId"] to null: started.
+[2023-01-14T00:12:00.817Z] Set profile setting ["organizationId"] to null: finished. gk-log://duration?t=220
+[2023-01-14T00:12:00.940Z] Verify SSH key for GitHub: started.
+[2023-01-14T00:12:00.943Z] Verify SSH key for GitHub: finished.
+[2023-01-14T00:12:01.636Z] Detecting Git and Git LFS: started
+[2023-01-14T00:12:02.046Z] Detected Git: git version 2.37.1.2.37.1
+[2023-01-14T00:12:02.061Z] Did not detect Git LFS
+[2023-01-14T00:12:02.128Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"4e1f1d69-c2c7-430c-b8a7-2cff54b2e5f5","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"REPO","repoName":"portal","repoPath":"/Users/fvcci/Code/Github/portal/"},{"id":"4e1f1d69-c2c7-430c-b8a7-2cff54b2e5f5","type":"RELEASE_NOTES"}]}: started.
+[2023-01-14T00:12:02.130Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"4e1f1d69-c2c7-430c-b8a7-2cff54b2e5f5","tabs":[{"id":"2c997c8e-708b-490b-bd33-d255fc25b7d4","type":"REPO","repoName":"portal","repoPath":"/Users/fvcci/Code/Github/portal/"},{"id":"4e1f1d69-c2c7-430c-b8a7-2cff54b2e5f5","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=2

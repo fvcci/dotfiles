@@ -1,0 +1,1 @@
+{"nextNotificationId":2,"notificationsByIdMap":{"1":{"createdAt":"2023-01-14T00:06:00.585Z","event":"appUpdate","contentType":"system","notificationType":"system","payload":{"desktopMessage":"Update available: 9.0.1","version":"9.0.1"},"isLocal":true,"notificationId":1}},"postedLocalNotifications":{"appUpdateVersions":{"9.0.1":true}},"lastSyncedAt":null}

@@ -1,0 +1,33 @@
+{
+  "tabInfo": {
+    "permanentTabs": {
+      "PROJECTS": {
+        "selectedProject": null,
+        "closed": false
+      }
+    },
+    "selectedTabId": "4e1f1d69-c2c7-430c-b8a7-2cff54b2e5f5",
+    "tabs": [
+      {
+        "id": "2c997c8e-708b-490b-bd33-d255fc25b7d4",
+        "type": "REPO",
+        "repoName": "portal",
+        "repoPath": "/Users/fvcci/Code/Github/portal/"
+      },
+      {
+        "id": "4e1f1d69-c2c7-430c-b8a7-2cff54b2e5f5",
+        "type": "RELEASE_NOTES"
+      }
+    ]
+  },
+  "profileIcon": "Sir-Keif.png",
+  "profileName": "tophet",
+  "userEmail": "fongf2@mcmaster.ca",
+  "userName": "fvcci",
+  "gpg": {
+    "commitGpgSign": false,
+    "tagForceSignAnnotated": false
+  },
+  "organizationId": null,
+  "projects": {}
+}

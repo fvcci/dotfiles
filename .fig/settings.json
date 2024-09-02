@@ -1,0 +1,14 @@
+{
+  "autocomplete.ai.enabled": true,
+  "autocomplete.disable": false,
+  "autocomplete.firstTokenCompletion": true,
+  "autocomplete.fontFamily": "MesloLGL Nerd Font",
+  "autocomplete.fuzzySearch": true,
+  "autocomplete.keybindings.control+n": "navigateDown",
+  "autocomplete.keybindings.down": "navigateDown",
+  "autocomplete.keybindings.enter": "insertSelected",
+  "autocomplete.keybindings.tab": "insertCommonPrefix",
+  "autocomplete.preferVerboseSuggestions": true,
+  "autocomplete.scrollWrapAround": true,
+  "autocomplete.theme": "dracula"
+}

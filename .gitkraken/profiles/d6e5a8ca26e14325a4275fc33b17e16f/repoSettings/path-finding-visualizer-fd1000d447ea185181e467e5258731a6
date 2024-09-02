@@ -1,0 +1,100 @@
+{
+  "pullRequests": {
+    "filters": [
+      {
+        "id": "529cba06-17df-4248-a075-a43c4d2c69ee",
+        "filter": "author:fvcci",
+        "name": "My Pull Requests",
+        "author": [
+          {
+            "not": false,
+            "values": [
+              "fvcci"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6082f8b8-b9ca-4e2b-9ea2-a2c93c3deaff",
+        "filter": "assignee:fvcci",
+        "name": "Assigned To Me",
+        "assignee": [
+          {
+            "not": false,
+            "values": [
+              "fvcci"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d88300fb-0095-47ef-bccc-7e3eb8d03cb1",
+        "filter": "review-requested:fvcci",
+        "name": "Awaiting My Review",
+        "review-requested": [
+          {
+            "not": false,
+            "values": [
+              "fvcci"
+            ]
+          }
+        ],
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c7a6706c-a79e-4955-9496-70037183abb6",
+        "filter": "",
+        "name": "All Pull Requests",
+        "in": [
+          {
+            "not": false,
+            "values": [
+              "title",
+              "body"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "teams": {
+    "hasFinishedSettingUpTeams": true
+  },
+  "remoteParents": {
+    "github": {
+      "fvcci": {
+        "path-finding-visualizer": {
+          "hostingServiceType": "github",
+          "owner": "fvcci",
+          "name": "Path-Finding-Sandbox"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+show collections
+use test
+show dbs
+db.test.test.test
+db.test
+db
+data
+table
+db
+db.categories.find()
+db.users.find()
+db.collectionName.find()
+show collections
+show dbs
+show collections
+LIST TABLES;
+LIST TABLES
+.exit
+show collections
+db. stats().getName()
+db.help()
+db.hostInfo()
+db.hostinfo()
+db
+.exit
+show collections
+db. stats()

@@ -1,0 +1,2 @@
+[2022-10-06T18:19:47.299Z] Fetch remote origin: authentication callback returned unsupported credentials type
+[2022-10-06T18:20:48.135Z] Fetch remote origin: authentication callback returned unsupported credentials type

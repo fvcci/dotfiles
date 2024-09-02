@@ -1,0 +1,165 @@
+{
+  "$schema" : "https:\/\/schema.linearmouse.app\/0.9.5",
+  "schemes" : [
+    {
+      "buttons" : {
+        "universalBackForward" : true
+      },
+      "if" : {
+        "device" : {
+          "productName" : "Razer DeathAdder Essential",
+          "productID" : "0x6e",
+          "category" : "mouse",
+          "vendorID" : "0x1532"
+        }
+      },
+      "pointer" : {
+        "speed" : 0.3653,
+        "disableAcceleration" : false
+      },
+      "scrolling" : {
+        "acceleration" : {
+          "vertical" : 1
+        },
+        "speed" : {
+          "vertical" : 0
+        },
+        "modifiers" : {
+          "option" : {
+            "type" : "auto"
+          },
+          "shift" : {
+            "type" : "auto"
+          },
+          "control" : {
+            "type" : "auto"
+          },
+          "command" : {
+            "type" : "auto"
+          }
+        }
+      }
+    },
+    {
+      "pointer" : {
+        "speed" : 0.27
+      },
+      "if" : {
+        "device" : {
+          "productName" : "USB Receiver",
+          "productID" : "0xc52b",
+          "category" : "mouse",
+          "vendorID" : "0x46d"
+        }
+      }
+    },
+    {
+      "pointer" : {
+        "speed" : 0.248,
+        "disableAcceleration" : false
+      },
+      "if" : {
+        "device" : {
+          "productName" : "2.4G Mouse",
+          "productID" : "0x64",
+          "category" : "mouse",
+          "vendorID" : "0x1ea7"
+        }
+      }
+    },
+    {
+      "if" : {
+        "device" : {
+          "productName" : "Apple Internal Keyboard \/ Trackpad",
+          "productID" : "0x342",
+          "category" : "trackpad",
+          "vendorID" : "0x5ac"
+        }
+      },
+      "scrolling" : {
+        "acceleration" : {
+          "vertical" : 1
+        }
+      }
+    },
+    {
+      "buttons" : {
+        "universalBackForward" : true,
+        "mappings" : [
+          {
+            "action" : "mouse.button.back",
+            "option" : false,
+            "shift" : false,
+            "button" : 3,
+            "command" : false,
+            "control" : false
+          },
+          {
+            "action" : "mouse.button.forward",
+            "option" : false,
+            "shift" : false,
+            "button" : 4,
+            "command" : false,
+            "control" : false
+          },
+          {
+            "action" : "appExpose",
+            "option" : false,
+            "shift" : false,
+            "button" : 5,
+            "command" : false,
+            "control" : false
+          }
+        ]
+      },
+      "if" : {
+        "device" : {
+          "productName" : "USB Receiver",
+          "productID" : "0xc548",
+          "category" : "mouse",
+          "vendorID" : "0x46d"
+        }
+      },
+      "pointer" : {
+        "speed" : 0.4115,
+        "disableAcceleration" : false
+      },
+      "scrolling" : {
+        "acceleration" : {
+          "vertical" : 1
+        },
+        "speed" : {
+          "vertical" : 5.76
+        }
+      }
+    },
+    {
+      "pointer" : {
+        "speed" : 0.5949
+      },
+      "if" : {
+        "device" : {
+          "productName" : "G502 HERO SE",
+          "serialNumber" : "0879386A3232",
+          "productID" : "0xc08b",
+          "category" : "mouse",
+          "vendorID" : "0x46d"
+        }
+      }
+    },
+    {
+      "pointer" : {
+        "speed" : 0.3441
+      },
+      "if" : {
+        "device" : {
+          "productName" : "MX Master 3S",
+          "serialNumber" : "19CFA571",
+          "productID" : "0xb034",
+          "category" : "mouse",
+          "vendorID" : "0x46d"
+        }
+      }
+    }
+  ]
+}
