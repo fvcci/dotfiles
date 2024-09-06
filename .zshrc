@@ -1,5 +1,5 @@
-# Fig pre block. Keep at the top of this file.
-[[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.pre.zsh"
+# Amazon Q pre block. Keep at the top of this file.
+[[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.pre.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.pre.zsh"
 # I fucked up
 export PATH="$PATH:/opt/homebrew/bin/"
 
@@ -144,6 +144,17 @@ function gitpush () {
   git push
 }
 
+function ssh_into_utm_vm () {
+  local vm_status=$(utmctl status $1)
+  if [[ "$vm_status" == "started" ]]; then
+    echo "utm is already running"
+  else
+    echo "starting utm"
+    utmctl start $1
+    echo "utm started"
+  fi
+  ssh -p 2222 fvcci@localhost
+}
 
 # The following lines were added by compinstall
 
@@ -154,5 +165,8 @@ autoload -Uz compinit
 compinit
 # End of lines added by compinstall
 
-# Fig post block. Keep at the bottom of this file.
-[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
+
+[[ -f "$HOME/fig-export/dotfiles/dotfile.zsh" ]] && builtin source "$HOME/fig-export/dotfiles/dotfile.zsh"
+
+# Amazon Q post block. Keep at the bottom of this file.
+[[ -f "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh" ]] && builtin source "${HOME}/Library/Application Support/amazon-q/shell/zshrc.post.zsh"
