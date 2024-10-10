@@ -164,7 +164,9 @@ zstyle :compinstall filename '/Users/fvcci/.config/zsh/.zshrc'
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
+export PATH="$HOME/.ghcup/bin:$PATH"
 
+export VCPKG_ROOT="$HOME/vcpkg"
 
 [[ -f "$HOME/fig-export/dotfiles/dotfile.zsh" ]] && builtin source "$HOME/fig-export/dotfiles/dotfile.zsh"
 

@@ -11,16 +11,16 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q
+|2,0,1727921504,,"q"
+:w
+|2,0,1727895370,,"w"
+:wq
+|2,0,1726973703,,"wq"
 :wq!
 |2,0,1725287868,,"wq!"
-:wq
-|2,0,1725285261,,"wq"
-:q
-|2,0,1704779334,,"q"
 :!
 |2,0,1702516968,,"!"
-:w
-|2,0,1702098161,,"w"
 :qa
 |2,0,1685026117,,"qa"
 
@@ -33,254 +33,269 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"j	CHAR	0
+	kjj
+|3,0,19,0,1,0,1727159368,"kjj"
 ""-	CHAR	0
 	#
 |3,1,36,0,1,0,1685030584,"#"
 
 # File marks:
-'0  1  0  ~/.git/MERGE_MSG
-|4,48,1,0,1725287868,"~/.git/MERGE_MSG"
-'1  6  0  ~/.git/MERGE_MSG
-|4,49,6,0,1725285261,"~/.git/MERGE_MSG"
-'2  6  0  ~/.git/MERGE_MSG
-|4,50,6,0,1725285261,"~/.git/MERGE_MSG"
-'3  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,51,1,0,1714367054,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
-'4  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,52,1,0,1707583853,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
-'5  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,53,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
+'0  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
+|4,48,1,0,1727921504,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
+'1  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,49,1,0,1727895371,"~/Code/Github/portal2/.git/MERGE_MSG"
+'2  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9
+|4,50,1,0,1727730753,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9"
+'3  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,51,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+'4  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,52,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+'5  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,53,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
 '6  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,54,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
-'7  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,55,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
-'8  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,56,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
-'9  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,57,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
+|4,54,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+'7  1  0  ~/.git/MERGE_MSG
+|4,55,1,0,1725287868,"~/.git/MERGE_MSG"
+'8  6  0  ~/.git/MERGE_MSG
+|4,56,6,0,1725285261,"~/.git/MERGE_MSG"
+'9  6  0  ~/.git/MERGE_MSG
+|4,57,6,0,1725285261,"~/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
+|4,39,1,0,1727921504,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1727895371,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1727895371,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9
+|4,39,1,0,1727730753,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9
+|4,39,1,0,1727730753,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9
+|4,39,1,0,1727730753,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9
+|4,39,1,0,1727730753,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+|4,39,1,0,1727159369,"/private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+|4,39,1,0,1726973703,"~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+|4,39,1,0,1726973171,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
+-'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
+|4,39,1,0,1726522129,"~/Code/Github/portal2/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1725287868,"~/.git/MERGE_MSG"
--'  6  0  ~/.git/MERGE_MSG
-|4,39,6,0,1725285261,"~/.git/MERGE_MSG"
--'  6  0  ~/.git/MERGE_MSG
-|4,39,6,0,1725285261,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
-|4,39,1,0,1725285256,"~/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1714367054,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1714367054,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1714367054,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1714367054,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1707583853,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1707583853,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1707583853,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-|4,39,1,0,1707583853,"~/Code/Github/path-finder-sandbox/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704779334,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704684552,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/MERGE_MSG
-|4,39,1,0,1704242247,"~/Code/Github/portal2/.git/MERGE_MSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
--'  1  0  ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-|4,39,1,0,1702525617,"~/Code/Github/portal2/.git/COMMIT_EDITMSG"
+|4,39,1,0,1725287868,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725287868,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725287868,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1725287868,"~/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/MERGE_MSG
-	*	1725287866	0
-	"	1	0
-
-> ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
-	*	1714367052	0
-	"	1	0
-
-> ~/Code/Github/portal2/.git/MERGE_MSG
-	*	1704779324	0
-	"	1	0
-
 > ~/Code/Github/portal2/.git/COMMIT_EDITMSG
-	*	1702525616	0
+	*	1727921502	0
 	"	1	0
 	^	3	94
 	.	4	0
 	+	4	0
+
+> ~/Code/Github/portal2/.git/MERGE_MSG
+	*	1727895370	0
+	"	1	0
+
+> /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshqLMdS9
+	*	1727730752	0
+	"	1	0
+
+> /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zshPpLJnb
+	*	1727159368	0
+	"	1	0
+
+> ~/Code/Github/path-finder-sandbox/.git/COMMIT_EDITMSG
+	*	1726973698	0
+	"	1	0
+
+> ~/Code/Github/path-finder-sandbox/.git/MERGE_MSG
+	*	1726973169	0
+	"	1	0
+
+> ~/.git/MERGE_MSG
+	*	1725287866	0
+	"	1	0
 
 > /private/var/folders/kx/4v6brb_55175yzn78q1px_pw0000gn/T/zsheoUAzC
 	*	1702253781	0
