@@ -1,7 +1,0 @@
-Host *
-  AddKeysToAgent yes
-  UseKeychain yes
-  IdentityFile ~/.ssh/id_ed25519
-
-Host rpi
-    ProxyCommand ssh fongf2@cs2ga3.cas.mcmaster.ca nc localhost 42069
